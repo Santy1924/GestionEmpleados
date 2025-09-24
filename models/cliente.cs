@@ -1,4 +1,5 @@
 
+
 namespace GestionEmpleados.Models
 {
     public class Cliente : Persona
@@ -15,8 +16,7 @@ namespace GestionEmpleados.Models
 
         public override void MostrarInformacion()
         {
-            base.MostrarInformacion();
-            Console.WriteLine($"Email: {Email}, Teléfono: {Telefono}");
+            Console.WriteLine($"Nombre: {Nombre} {Apellido}, Edad: {Edad}, Email: {Email}, Teléfono: {Telefono}");
         }
     }
 }
