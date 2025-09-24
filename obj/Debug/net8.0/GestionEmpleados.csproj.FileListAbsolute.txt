@@ -1,0 +1,15 @@
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.AssemblyInfoInputs.cache
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.AssemblyInfo.cs
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.csproj.CoreCompileInputs.cache
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.sourcelink.json
+/home/Coder/Música/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados
+/home/Coder/Música/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.deps.json
+/home/Coder/Música/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.runtimeconfig.json
+/home/Coder/Música/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.dll
+/home/Coder/Música/GestionEmpleados/bin/Debug/net8.0/GestionEmpleados.pdb
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.dll
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/refint/GestionEmpleados.dll
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.pdb
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/GestionEmpleados.genruntimeconfig.cache
+/home/Coder/Música/GestionEmpleados/obj/Debug/net8.0/ref/GestionEmpleados.dll
