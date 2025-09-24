@@ -1,10 +1,10 @@
 namespace GestionEmpleados.Models
 {
-    public class Persona
+    abstract class Persona
     {
-        public string Nombre { get; set; }
-        public string Apellido { get; set; }
-        public byte Edad { get; set; }
+        protected string Nombre { get; set; }
+        protected string Apellido { get; set; }
+        protected byte Edad { get; set; }
 
         public Persona(string nombre, string apellido, byte edad)
         {
